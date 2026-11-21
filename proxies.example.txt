@@ -1,0 +1,6 @@
+# Adicione proxies abaixo (um por linha)
+# Formatos suportados:
+# IP:PORTA:USUARIO:SENHA
+# IP:PORTA
+# socks5://IP:PORTA
+# http://IP:PORTA
